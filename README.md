@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Laboratory+work+in+CPP)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Laboratory+work+about+polygon+intersection+area)](https://git.io/typing-svg)
 #### В нашей программе для определения точек получившегося полигона при наложении фигур мы использовали алгоритм Сазерленда-Ходжмана.
 #### Суть алгоритма, для простоты, рассмотрим на 2 фигурах:
 ![image](https://github.com/Akds-ubuntu/Laboratory-work-in-CPP/assets/125271579/e68139dc-c492-488c-abb0-4020423854cd)
